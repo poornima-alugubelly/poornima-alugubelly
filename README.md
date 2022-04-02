@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Poornima</h1>
 <h3 align="center">A curious and ambitious full stack developer from India</h3>
-<p align="left"> <a href="https://twitter.com/Moony_codes" target="blank"><img src="https://img.shields.io/twitter/follow/Moony_codes?logo=twitter&style=for-the-badge" alt="Moony_codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Moony_codes" target="blank"><img src="https://img.shields.io/twitter/follow/Moony_codes?logo=twitter&style=flat-square" alt="Moony_codes" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=poornima-alugubelly&style=flat-square" />
+
 
 - Currently improving my skills in **React** by building real world projects
 

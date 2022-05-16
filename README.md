@@ -17,8 +17,20 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="Typescript" alt="Typescript width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40" />&nbsp;
+                                                                                                                      <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40" />&nbsp;
+                                                                                                                     
 </div>
+
+## Latest Blogs :
+
+- [How to implement Memoization in React and vanilla JS to optimize your web app](https://poornima-alugubelly.hashnode.dev/how-to-implement-memoization-in-react-and-vanilla-js-to-optimize-your-web-app)
+
+- [Hoisting in Javascript](https://www.scaler.com/topics/hoisting-in-javascript/)
+
+- [Is Javascript pass by value or pass by reference?](https://poornima-alugubelly.hashnode.dev/is-javascript-pass-by-value-or-pass-by-reference)
 
 ## Connect with me
 <a href="mailto:poornima.alugubelly@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 

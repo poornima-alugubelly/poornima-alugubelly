@@ -3,8 +3,7 @@
 <p align="left"> <a href="https://twitter.com/Moony_codes" target="blank"><img src="https://img.shields.io/twitter/follow/Moony_codes?logo=twitter&style=flat-square" alt="Moony_codes" /></a> </p>
 <img src="https://komarev.com/ghpvc/?username=poornima-alugubelly&style=flat-square" />
 
- <p><b>All my work life at one place:</b><p>
-  <a href="https://peerlist.io/poornima"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
+
 
  ## About Me :
 

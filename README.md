@@ -7,7 +7,7 @@
 
  ## About Me :
 
-- Currently improving my skills in **React** by building real world projects
+- Currently improving my skills in **AI development** by building real world projects
 
 - Learning new things gives me a dopamine hit 
 
